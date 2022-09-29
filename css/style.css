@@ -19,7 +19,7 @@ body {
 }
 /* 指定背景顏色 相對位置 */
 body {
-  background-color: #94D0D4;
+  background-color: #191970;
   position:relative;
 }
 
@@ -93,14 +93,14 @@ img {
   width: 80px; height: 80px;
   right: -30px;
   top: -30px;
-  border: solid 6px #FFB66B;
+  border: solid 6px #FFFF00;
 }
 
 .circle2{
   width: 40px; height: 40px;
   right: 80px;
   top: 65px;
-  background-color: #FFB66B;
+  background-color: #FFFFE0;
 }
 
 .page_title {
