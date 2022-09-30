@@ -93,20 +93,20 @@ img {
   width: 80px; height: 80px;
   right: -30px;
   top: -30px;
-  border: solid 6px #FFFFB9;
+  border: solid 6px #003060;
 }
 
 .circle2{
   width: 40px; height: 40px;
   right: 80px;
   top: 65px;
-  background-color: #FFA042;
+  background-color: #E6CAFF;
 }
 
 .page_title {
   text-align: center;
   font-size: 28px;
-  color: #003060;
+  color: #FFFFB9;
   font-weight: bold;
   letter-spacing: 5px;
 }
